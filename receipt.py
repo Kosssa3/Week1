@@ -1,5 +1,9 @@
 n = str(input("Product: "))
-print = n
 
 m = float(input("Price: "))
-print = m
+
+a = int(input("Quanity: "))
+
+print(n)
+print(m)
+print(a)
