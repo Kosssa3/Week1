@@ -1,4 +1,5 @@
-42
-3.14
-"42"
-True
+n = str(input("Product: "))
+print = n
+
+m = float(input("Price: "))
+print = m
